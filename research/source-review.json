@@ -1,0 +1,468 @@
+{
+  "review_date": "2026-10-14",
+  "scope": "Public pages discovered through menus, footer and internal body links. Embedded videos, image-only assets and every linked document were not exhaustively audited. Sitemaps were unavailable.",
+  "pages": [
+    {
+      "site": "rousix.org",
+      "url": "https://rousix.org/",
+      "title": "Home",
+      "status": "Revise",
+      "decision": "Keep accessible, useful computing and broad participation. Replace machine-led income claims with demand-led services, transparent costs and optional hardware."
+    },
+    {
+      "site": "rousix.org",
+      "url": "https://rousix.org/press-1",
+      "title": "Press",
+      "status": "Revise",
+      "decision": "Create a verified progress journal. Separate measured results from proposed products, financial scenarios and unrelated political commentary."
+    },
+    {
+      "site": "rousix.org",
+      "url": "https://rousix.org/founders",
+      "title": "Founders",
+      "status": "Revise",
+      "decision": "Use verified, consented biographies and a precise voting map. Founder control must be reconciled with member rights; a website does not amend corporate governance."
+    },
+    {
+      "site": "rousix.org",
+      "url": "https://rousix.org/get-started",
+      "title": "Get started",
+      "status": "Revise",
+      "decision": "Begin with a useful service and a clear price. Remove the assumption that participants should finance equipment or pay a lease-back subscription to gain opportunity."
+    },
+    {
+      "site": "rousix.org",
+      "url": "https://rousix.org/field-reports",
+      "title": "Field reports",
+      "status": "Revise",
+      "decision": "Keep evidence trails and bounded AI authority. Replace unsupported government, financing and acquisition assertions with reproducible results and documented agreements."
+    },
+    {
+      "site": "rousix.org",
+      "url": "https://rousix.org/finance",
+      "title": "Finance",
+      "status": "Revise",
+      "decision": "Separate service access, hardware purchase and financing. Clearly disclose delivery timing, total payment obligations and risk. Do not rely on speculative income to justify debt."
+    },
+    {
+      "site": "rousix.org",
+      "url": "https://rousix.org/business-plan",
+      "title": "Business plan",
+      "status": "Revise",
+      "decision": "Keep productive services, professional networks and wider participation. Purchases are revenue, not automatically investable surplus; full reimbursement needs a demonstrated funding source."
+    },
+    {
+      "site": "rousix.org",
+      "url": "https://rousix.org/market-cap",
+      "title": "Market cap",
+      "status": "Remove",
+      "decision": "Speculative token valuation is not evidence of customer demand, company value or available capital. The redesigned business does not require a multi-token economy."
+    },
+    {
+      "site": "rousix.org",
+      "url": "https://rousix.org/charter",
+      "title": "Corporate charter",
+      "status": "Revise",
+      "decision": "Preserve clear legal entities and responsibilities. Corporate age alone establishes neither financial credibility nor access to every funding pathway."
+    },
+    {
+      "site": "rousix.org",
+      "url": "https://rousix.org/publications-1",
+      "title": "Publications",
+      "status": "Revise",
+      "decision": "Create a sourced library separating independent publications, company essays, concept imagery and proposed products. Confirm original publishers and actual endorsements."
+    },
+    {
+      "site": "rousix.org",
+      "url": "https://rousix.org/commerce",
+      "title": "Commerce",
+      "status": "Revise",
+      "decision": "Keep interoperable transaction records. Remove universal currency pegs, fixed economy-wide revenue allocations and assumed authority over taxes or national policy."
+    },
+    {
+      "site": "rousix.org",
+      "url": "https://rousix.org/onboarding",
+      "title": "Onboarding",
+      "status": "Revise",
+      "decision": "Keep patient human support. Make service terms and costs clear; access should not require a wallet, token purchase or expensive hardware."
+    },
+    {
+      "site": "rousix.org",
+      "url": "https://rousix.org/buy-now",
+      "title": "Buy now",
+      "status": "Revise",
+      "decision": "If hardware is offered later, publish exact specifications, delivery, warranty and a workload-based value comparison. This concept site offers no checkout."
+    },
+    {
+      "site": "rousix.org",
+      "url": "https://rousix.org/affiliate",
+      "title": "Affiliate",
+      "status": "Remove",
+      "decision": "Defer high-value hardware referral incentives. Any later sales program should disclose commissions and reward delivered customer value rather than recruitment."
+    },
+    {
+      "site": "rousix.org",
+      "url": "https://rousix.org/community",
+      "title": "Community",
+      "status": "Keep",
+      "decision": "Retain education, cooperation and support. Broaden participation to people who cannot invest or buy equipment; allow disagreement and open criticism."
+    },
+    {
+      "site": "rousix.org",
+      "url": "https://rousix.org/whitepaper",
+      "title": "White paper",
+      "status": "Revise",
+      "decision": "Keep modular coordination and auditable records. Remove unverified valuation, automatic universal compliance and discriminatory narratives. Tokens do not confer democratic legitimacy."
+    },
+    {
+      "site": "rousix.org",
+      "url": "https://rousix.org/pitch-deck",
+      "title": "Pitch deck",
+      "status": "Revise",
+      "decision": "Lead with customer, workflow, price, evidence and execution. Replace token-upside comparisons and universal tax claims with a bounded commercial proposition."
+    },
+    {
+      "site": "rousix.org",
+      "url": "https://rousix.org/research",
+      "title": "Research",
+      "status": "Keep",
+      "decision": "Retain serious inquiry into work, income, AI and household costs. Publish methods, complete references, uncertainty, revisions and criticism."
+    },
+    {
+      "site": "rousix.org",
+      "url": "https://rousix.org/9%2F11-redemption",
+      "title": "9/11 redemption",
+      "status": "Remove",
+      "decision": "Remove unrelated geopolitical and authority claims from the commercial vision. Preserve civilian welfare and peaceful cooperation as universal commitments."
+    },
+    {
+      "site": "rousix.org",
+      "url": "https://rousix.org/more-press",
+      "title": "More press",
+      "status": "Revise",
+      "decision": "Keep useful paid work and recurring services. Test distributed compute against actual alternatives; remain open to income support for people unable to contribute labor."
+    },
+    {
+      "site": "rousix.org",
+      "url": "https://rousix.org/testimonials-1",
+      "title": "Testimonials",
+      "status": "Remove",
+      "decision": "Remove discriminatory and conspiratorial narratives. Future customer stories require consent, attribution and evidence of actual outcomes."
+    },
+    {
+      "site": "rousix.org",
+      "url": "https://rousix.org/sustainability",
+      "title": "Sustainability",
+      "status": "Revise",
+      "decision": "Keep education and critical thinking. Add actual energy, equipment-life and resource measures; learning access must not depend on speculative participation."
+    },
+    {
+      "site": "rousix.org",
+      "url": "https://rousix.org/investment",
+      "title": "Investment",
+      "status": "Revise",
+      "decision": "Separate investment materials from ordinary services. Claims about financial terms, eligibility and authority need their own documented review; this site solicits no investment."
+    },
+    {
+      "site": "rousix.org",
+      "url": "https://rousix.org/proprietary",
+      "title": "Proprietary systems",
+      "status": "Remove",
+      "decision": "Do not treat speculative physical-instantiation or broad patent-style descriptions as working infrastructure. Retain ordinary authentication only where implemented and tested."
+    },
+    {
+      "site": "rousix.org",
+      "url": "https://rousix.org/accountability",
+      "title": "Accountability",
+      "status": "Revise",
+      "decision": "Translate the useful concern into audit trails, complaints, due process and independent review. Separate contested litigation advocacy from claims about the product."
+    },
+    {
+      "site": "rousix.org",
+      "url": "https://rousix.org/quantitative",
+      "title": "Quantitative",
+      "status": "Revise",
+      "decision": "Keep attention to AI orchestration and verifiable execution. Replace deterministic legal/financial correctness claims and unsourced forecasts with reproducible task-level evaluations."
+    },
+    {
+      "site": "rousix.org",
+      "url": "https://rousix.org/roadmap",
+      "title": "Roadmap",
+      "status": "Revise",
+      "decision": "Retain clear onboarding. Replace machine-to-return progression with a customer pilot, evidence gates, transparent costs and a right to exit."
+    },
+    {
+      "site": "rousix.org",
+      "url": "https://rousix.org/leadership",
+      "title": "Leadership",
+      "status": "Remove",
+      "decision": "Replace political-personality positioning with accountable organizational roles, qualifications, succession and member representation."
+    },
+    {
+      "site": "rousix.org",
+      "url": "https://rousix.org/framework",
+      "title": "Economic framework",
+      "status": "Revise",
+      "decision": "Keep fair pay and responsibility for risk. A universal 80/20 allocation cannot fit every industry; the stated wage increase needs additional cost-share assumptions."
+    },
+    {
+      "site": "rousix.org",
+      "url": "https://rousix.org/decal-program",
+      "title": "Decal program",
+      "status": "Remove",
+      "decision": "Defer compensated advertising until there is a useful service and a funded campaign. Large promotional payouts do not validate the underlying economics."
+    },
+    {
+      "site": "rousix.org",
+      "url": "https://rousix.org/decentralization",
+      "title": "Decentralization",
+      "status": "Revise",
+      "decision": "Replace geopolitical restructuring and currency-authority claims with practical local control, provider choice, portable records and accountable federation."
+    },
+    {
+      "site": "rousix.org",
+      "url": "https://rousix.org/partners",
+      "title": "Partners",
+      "status": "Revise",
+      "decision": "A possible acquisition target is not a partner. Publish only documented relationships and their actual scope; cooperation should be voluntary."
+    },
+    {
+      "site": "rousix.org",
+      "url": "https://rousix.org/mujahideen",
+      "title": "Mujahideen",
+      "status": "Revise",
+      "decision": "Preserve education, pluralism and civilian dignity. Retire military or sovereign-authority framing from a private economic platform."
+    },
+    {
+      "site": "rousix.org",
+      "url": "https://rousix.org/news-briefings",
+      "title": "News briefings",
+      "status": "Remove",
+      "decision": "Keep unrelated geopolitical video commentary out of primary product navigation. A research archive must distinguish interpretation from verified evidence."
+    },
+    {
+      "site": "rousix.org",
+      "url": "https://rousix.org/biometric-id",
+      "title": "Biometric identity",
+      "status": "Revise",
+      "decision": "Use data minimization and non-biometric access. Remove identity-purchase incentives, compulsory token holdings and broad collection of sensitive identifiers."
+    },
+    {
+      "site": "rousix.org",
+      "url": "https://rousix.org/strategic-plan",
+      "title": "Strategic deployment",
+      "status": "Revise",
+      "decision": "Keep useful local hubs as an option. Begin with rented capacity; occupancy, power and customer demand must justify property and compute investment independently."
+    },
+    {
+      "site": "rousix.org",
+      "url": "https://rousix.org/market-intelligence",
+      "title": "Market intelligence",
+      "status": "Revise",
+      "decision": "Replace sweeping predictions, promotional valuations and unsupported authority claims with dated evidence, uncertainty and clear separation of analysis from operations."
+    },
+    {
+      "site": "rousix.org",
+      "url": "https://rousix.org/become-a-member",
+      "title": "Become a member",
+      "status": "Revise",
+      "decision": "Distinguish service access, governance membership and investment. Provide clear terms and collect only necessary data when a real service launches."
+    },
+    {
+      "site": "rousix.org",
+      "url": "https://rousix.org/music",
+      "title": "Music",
+      "status": "Revise",
+      "decision": "Keep creator attribution and royalty administration. Require actual permissions, licenses and evidence of use; embedded media does not establish a partnership."
+    },
+    {
+      "site": "rousix.org",
+      "url": "https://rousix.org/silk-road",
+      "title": "Silk Road",
+      "status": "Revise",
+      "decision": "Keep cross-border collaboration as a horizon. Expand through willing local partners and proven demand, without claiming an operational global corridor."
+    },
+    {
+      "site": "rousix.org",
+      "url": "https://rousix.org/religion",
+      "title": "Religion",
+      "status": "Remove",
+      "decision": "Protect freedom of belief and conscience for everyone. Optional theological essays should not function as platform rules or evidence for financial mechanisms."
+    },
+    {
+      "site": "rousix.org",
+      "url": "https://rousix.org/disclaimer",
+      "title": "Disclaimer",
+      "status": "Revise",
+      "decision": "Replace broad disclaimers with accurate product-level claims, full costs, risk and clear rights. Describing something as technology does not settle its financial character."
+    },
+    {
+      "site": "rousix.org",
+      "url": "https://rousix.org/lease",
+      "title": "Lease-back",
+      "status": "Revise",
+      "decision": "Any future compute arrangement needs metered useful work, transparent fees, payment timing and customer demand. A recurring operator charge does not create a reliable income stream."
+    },
+    {
+      "site": "rousix.org",
+      "url": "https://rousix.org/institutional-link",
+      "title": "Institutional systems",
+      "status": "Revise",
+      "decision": "Defer large hardware sales until specifications, demand, lifecycle costs, delivery and support are independently assessable."
+    },
+    {
+      "site": "federalreserveblack.org",
+      "url": "https://federalreserveblack.org/",
+      "title": "Home",
+      "status": "Revise",
+      "decision": "Preserve broad participation, useful infrastructure and claims accountability. Remove exclusivity-as-decentralization, unsupported authority, hostile narratives and unverified endorsements."
+    },
+    {
+      "site": "federalreserveblack.org",
+      "url": "https://federalreserveblack.org/membership-subscription-1",
+      "title": "Membership subscription",
+      "status": "Remove",
+      "decision": "Separate a service subscription from capital placed in a fund. The new public vision contains no liquidity-facility enrollment or investment checkout."
+    },
+    {
+      "site": "federalreserveblack.org",
+      "url": "https://federalreserveblack.org/field-reports",
+      "title": "Field reports",
+      "status": "Revise",
+      "decision": "Keep evidence preservation and due process. Build a clear audit, correction and complaint process; separate unrelated case advocacy."
+    },
+    {
+      "site": "federalreserveblack.org",
+      "url": "https://federalreserveblack.org/finance-tool",
+      "title": "Finance tool",
+      "status": "Revise",
+      "decision": "A planner can organize goals, costs and funding gaps. It cannot supply capital or establish creditworthiness merely by calculating a number."
+    },
+    {
+      "site": "federalreserveblack.org",
+      "url": "https://federalreserveblack.org/strategy",
+      "title": "Strategy",
+      "status": "Revise",
+      "decision": "Keep productive ownership and cooperation. Replace return positioning, bank-acquisition ambition, discriminatory claims and implied public authority with a bounded service strategy."
+    },
+    {
+      "site": "federalreserveblack.org",
+      "url": "https://federalreserveblack.org/press",
+      "title": "Press",
+      "status": "Revise",
+      "decision": "Create a verified progress journal. The premium-funded purchase-reimbursement example has a funding-base problem; replace it with earned-surplus rebates."
+    },
+    {
+      "site": "federalreserveblack.org",
+      "url": "https://federalreserveblack.org/business-model",
+      "title": "Business model",
+      "status": "Revise",
+      "decision": "Reinvesting real operating cash flow is coherent. Infinite-growth or self-sustaining-liquidity claims need to give way to costs, demand, reserves and downside cases."
+    },
+    {
+      "site": "federalreserveblack.org",
+      "url": "https://federalreserveblack.org/advantage",
+      "title": "Advantage",
+      "status": "Revise",
+      "decision": "Keep reduced coordination friction. Replace paying extra today for assumed future reimbursement with useful services, immediate savings and disclosed fees."
+    },
+    {
+      "site": "federalreserveblack.org",
+      "url": "https://federalreserveblack.org/intermetanet",
+      "title": "Intermetanet",
+      "status": "Revise",
+      "decision": "Keep permissions, settlement records, contractual administration and royalties. The page correctly separates settlement from financing; narrow the universal allocation and platform-control claims."
+    },
+    {
+      "site": "federalreserveblack.org",
+      "url": "https://federalreserveblack.org/research",
+      "title": "Research",
+      "status": "Keep",
+      "decision": "Institutional drift is a valuable research theme. Turn it into protected rights, explicit amendment rules, independent review and meaningful exit."
+    },
+    {
+      "site": "federalreserveblack.org",
+      "url": "https://federalreserveblack.org/postdoc",
+      "title": "Postdoctoral research",
+      "status": "Keep",
+      "decision": "Preserve relevant scholarship with original publication links. Academic expertise does not itself validate a commercial or financial mechanism."
+    },
+    {
+      "site": "federalreserveblack.org",
+      "url": "https://federalreserveblack.org/peer-evaluations",
+      "title": "Peer evaluations",
+      "status": "Keep",
+      "decision": "Make criticism visible. Extend this norm to economics, technical tests and governance, with responses and revisions rather than implied commercial endorsement."
+    },
+    {
+      "site": "federalreserveblack.org",
+      "url": "https://federalreserveblack.org/positioning",
+      "title": "Positioning",
+      "status": "Revise",
+      "decision": "Prioritize voluntary opportunity matching and fairly paid local verification. Replace a living census or surveillance framing with user-controlled profiles and explicit consent."
+    },
+    {
+      "site": "federalreserveblack.org",
+      "url": "https://federalreserveblack.org/real-estate",
+      "title": "Real estate",
+      "status": "Keep",
+      "decision": "Standardized property information and professional coordination address concrete needs. Preserve homeowner choice and equity; measure housing outcomes beyond sale price."
+    },
+    {
+      "site": "federalreserveblack.org",
+      "url": "https://federalreserveblack.org/counsel",
+      "title": "Counsel",
+      "status": "Revise",
+      "decision": "Publish verified roles, qualifications and actual relationships. Remove implied institutional endorsement and unrelated authority claims; provide independent complaint review."
+    },
+    {
+      "site": "federalreserveblack.org",
+      "url": "https://federalreserveblack.org/justice",
+      "title": "Justice",
+      "status": "Revise",
+      "decision": "Translate due process into notice, reasons, human review and remedies. Keep disputed case claims separate from the service."
+    },
+    {
+      "site": "federalreserveblack.org",
+      "url": "https://federalreserveblack.org/mission",
+      "title": "Mission",
+      "status": "Keep",
+      "decision": "Retain cooperation across cultural differences. Anchor it in practical abilities to learn, work, create, trade and obtain fair treatment."
+    },
+    {
+      "site": "federalreserveblack.org",
+      "url": "https://federalreserveblack.org/mvp",
+      "title": "MVP",
+      "status": "Keep",
+      "decision": "Retain MREO-first sequencing and revenue before expansion. Start with coordination; property acquisition, lending and exchange operation are separate undertakings."
+    },
+    {
+      "site": "federalreserveblack.org",
+      "url": "https://federalreserveblack.org/terrorism",
+      "title": "Terrorism",
+      "status": "Remove",
+      "decision": "Remove conspiracy and religious-hostility framing. Narrow fraud controls and lawful evidence review do not confer policing or national-security authority."
+    },
+    {
+      "site": "federalreserveblack.org",
+      "url": "https://federalreserveblack.org/safe-harbor",
+      "title": "Safe harbor",
+      "status": "Keep",
+      "decision": "Preserve equal safety and dignity for Jewish, Palestinian and all other communities, including people without a faith. Make nondiscrimination, privacy and assistance operational."
+    },
+    {
+      "site": "federalreserveblack.org",
+      "url": "https://federalreserveblack.org/surplus",
+      "title": "Surplus",
+      "status": "Revise",
+      "decision": "Distinguish company profit, household income, public fiscal balance and money creation. Share actual net earnings; perpetual surplus is not a software feature."
+    },
+    {
+      "site": "federalreserveblack.org",
+      "url": "https://federalreserveblack.org/disclaimer",
+      "title": "Disclaimer",
+      "status": "Revise",
+      "decision": "State which capabilities exist and what participants own. Separate service terms, privacy, governance and any properly reviewed financial documents."
+    }
+  ]
+}
