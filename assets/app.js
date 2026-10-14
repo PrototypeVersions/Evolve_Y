@@ -35,7 +35,7 @@
  if(typeof module!=='undefined'&&module.exports)module.exports={economics};
  function readCalc(){const fields=$$('#economics-form input');const v={};for(const el of fields){if(el.value.trim()===''||!el.checkValidity()){return null;}v[el.name]=Number(el.value);}return v;}
  function updateCalc(){
-  const v=readCalc(); if(!v){$('#calc-error').textContent='Enter valid values in every field. Member count must be at least 1; percentages must be between 0 and 100.';$('#calc-results').setAttribute('aria-busy','true');return;}
+  const v=readCalc(); if(!v){$('#calc-error').textContent='Enter valid values in every field. Member count must be at least 1; percentages must be between 0 and 100.';$('#calc-results').setAttribute('aria-busy','false');$$('#calc-results strong, #available').forEach(el=>el.textContent='—');$('#model-state').textContent='Results are unavailable until every assumption is valid.';$('#calc-share-label').textContent='Awaiting valid assumptions';$$('.calc-bar span').forEach(el=>el.style.width='0%');return;}
   $('#calc-error').textContent='';$('#calc-results').setAttribute('aria-busy','false');const r=economics(v);
   for(const [id,key] of [['revenue','revenue'],['direct','direct'],['operating','operating'],['tax-result','tax'],['reserve-result','reserve'],['available','available'],['shared','share'],['company','company'],['per-member','perMember'],['community','community']])$('#'+id).textContent=money(r[key]);
   $('#fixed-result').textContent=money(v.fixed);$('#breakeven').textContent=r.breakeven===null?'No break-even at this price':r.breakeven.toLocaleString()+' paying organizations';
