@@ -2,6 +2,8 @@
  'use strict';
  const $ = s => document.querySelector(s);
  const $$ = s => [...document.querySelectorAll(s)];
+ const readingProgress=$('.reading-progress');
+ if(readingProgress){const updateReading=()=>{const length=document.documentElement.scrollHeight-window.innerHeight;readingProgress.style.width=(length>0?Math.min(100,window.scrollY/length*100):0)+'%';};window.addEventListener('scroll',updateReading,{passive:true});window.addEventListener('resize',updateReading);updateReading();}
  const menu=$('.menu-toggle');
  if(menu) menu.addEventListener('click',()=>{const open=menu.getAttribute('aria-expanded')!=='true';menu.setAttribute('aria-expanded',String(open));$('.nav').classList.toggle('open',open);menu.textContent=open?'Close':'Menu';});
  document.addEventListener('keydown',e=>{if(e.key==='Escape'&&menu){menu.setAttribute('aria-expanded','false');$('.nav').classList.remove('open');menu.textContent='Menu';}});

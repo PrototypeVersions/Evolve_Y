@@ -37,7 +37,7 @@ GitHub Pages: deploy from branch `main`, folder `/ (root)`. `.nojekyll` is inclu
 
 ## Privacy and accessibility
 
-No accounts, analytics scripts, external fonts or data submissions. Interactive values remain in the current page. Host logs and external destination sites remain subject to their own policies. Semantic navigation, keyboard-operable tabs, labeled controls, reduced-motion support, responsive layouts and print styles are included.
+No accounts, analytics scripts or data submissions. Manrope is loaded from Google Fonts; the privacy section discloses those requests. Interactive values remain in the current page. Host logs and external destination sites remain subject to their own policies. Semantic navigation, keyboard-operable tabs, labeled controls, reduced-motion support, responsive layouts and print styles are included.
 
 ## Economics model
 
@@ -50,3 +50,7 @@ The proposed sharing split in the demonstration is 65% of the common pool for el
 44 Rousix and 22 Federal Reserve Black public pages were reviewed through retrieved page text and direct browser inspection. Menu, footer and body links were used; sitemaps were inaccessible. Embedded videos, image-only content, every attachment and external services were not exhaustively audited. Some retrieved source versions were cached. See `research.html` for details.
 
 Review date: 14 October 2026.
+
+## Visual edition 02
+
+Obsidian, copper and warm limestone art direction, custom AI-generated concept imagery, responsive editorial layouts, optional motion and a reading progress indicator. Image files are local site assets; they depict concepts rather than existing projects. `assets/design.css` contains the revised visual system over the base component layout.
